@@ -89,5 +89,5 @@ git clone https://github.com/yourusername/financial-analysis-atliq-hardware.git
 ## 📬 Contact
 
 **Meet Patel**  
-📧 meetpatel@email.com  
+📧 erpatelmeet@email.com  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
